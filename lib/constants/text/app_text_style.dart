@@ -1,4 +1,4 @@
-import 'package:bmi_calculator_2/colors/app_colors.dart';
+import 'package:bmi_calculator_2/constants/colors/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class AppTextStyles {
